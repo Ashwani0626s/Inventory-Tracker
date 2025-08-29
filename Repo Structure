@@ -1,0 +1,9 @@
+inventory-tracker/
+├── docs/                # Screenshots or exports from Figma
+│   ├── dashboard.png
+│   └── inventory.png
+├── src/                 # Future source code (frontend + backend)
+│   └── placeholder.txt  # (empty for now)
+├── .gitignore           # To avoid uploading unnecessary files
+├── LICENSE              # Open-source license (MIT recommended)
+└── README.md            # Project overview (already generated)
